@@ -1,10 +1,7 @@
-
 export default function Home() {
   return (
-<>
-<div>
-
-</div>
-</>
+    <>
+      <div>sssddddddddddddddddddddd</div>
+    </>
   );
 }
